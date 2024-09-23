@@ -1,4 +1,5 @@
 This line is gone
+But here is a new line: Does the file name readme not imply that the file has a consciousness?
 
 Saving the file simply writes the new text to your hard disk. We need to tell git that we want to preserve these changes for the project (making a
 "commit"), then send them
