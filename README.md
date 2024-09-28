@@ -1,3 +1,5 @@
+And now something with a branch here too
+
 This line is gone
 But here is a new line: Does the file name readme not imply that the file has a consciousness?
 
