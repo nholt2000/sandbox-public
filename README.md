@@ -1,7 +1,7 @@
 
 And now something with a branch here too
 
-Something with a branch
+
 
 
 This line is gone
